@@ -1,0 +1,65 @@
+.jefersonsantos{
+    text-align: center;
+    background-color: aqua;
+    color: white;
+    font-family: sans-serif;
+}
+.dados {
+    padding: 12px;
+}
+.nome {
+    font-size: larger;
+}
+.idade {
+    font-size: larger;
+
+}
+.estado {
+    font-size: larger;
+
+}
+.local {
+    font-size: larger; 
+
+}
+.contato{
+    padding: 12px;
+
+}
+.iconeWhats {
+    width: 45x;
+    height: 45px;
+}
+
+.iconelink {
+    width: 40px;
+    height: 40px;
+}
+.email {
+    width: 40px;
+    height: 40px;
+}
+.escolaridade {
+    padding: 12px;
+
+}
+.foto{
+    width: 200px;
+    height: 200px;
+    padding: 3px;
+    border-radius: 10px;
+    padding-right: 10px;
+    margin-left: auto;
+    
+}
+.mymusic {
+    padding: 12px;
+
+}
+
+.tube {
+    width: 40px;
+    height: 40px;
+    padding: 8x;
+    padding-right: 10px;
+}
