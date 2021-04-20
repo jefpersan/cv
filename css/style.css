@@ -3,6 +3,7 @@
     background-color: aqua;
     color: white;
     font-family: sans-serif;
+    display: flex;
 }
 .dados {
     padding: 12px;
