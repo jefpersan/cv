@@ -3,7 +3,7 @@
     background-color: aqua;
     color: white;
     font-family: sans-serif;
-    display: flex;
+   
 }
 .dados {
     padding: 12px;
@@ -48,7 +48,7 @@
     width: 200px;
     height: 200px;
     padding: 3px;
-    border-radius: 10px;
+    border-radius: 20px;
     padding-right: 10px;
     margin-left: auto;
     
@@ -63,4 +63,33 @@
     height: 40px;
     padding: 8x;
     padding-right: 10px;
+}
+.google {
+    width: 200px;
+    height: 200px;
+    padding: 14px;
+}
+.busca {
+    padding: 14px;
+    background-color: aqua;
+    color: white;
+    border-radius: 10px;
+    text-align: center;
+}
+.form {
+    padding: 10px;
+    padding-top: 40px;
+}
+.video{
+    padding: 14px;
+    background-color: red;
+    color:white;
+    font-family: sans-serif;
+    border-radius: 10px;
+    
+}
+.player {
+    padding: 20px;
+    width: 500px;
+    
 }
